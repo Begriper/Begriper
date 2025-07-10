@@ -21,7 +21,7 @@ Momentálne absolvujem [Skillmea Data Academy](https://skillmea.sk/academy/data)
 
 ## 🎯 Aktuálne zameranie
 
-- 🔍 Učím sa cez reálne mini-projekty → [pozri moje repozitáre](https://github.com/Begriper)
+- 🔍 Učím sa cez reálne mini-projekty → [pozri moje repozitáre]([https://github.com/Begriper](https://github.com/Begriper?tab=stars)
 - 🔧 Analyzujem dáta, čistím ich, vizualizujem (Power BI, Excel dashboards)
 - 🌱 Hľadám tím, ktorý ma usmerní, kde a ako svoje skills v praxi uplatniť
 
@@ -61,7 +61,7 @@ Currently enrolled in the [Skillmea Data Academy](https://skillmea.sk/academy/da
 
 ## 🎯 Current focus
 
-- 🔍 Learning by doing → [check my repositories](https://github.com/Begriper)
+- 🔍 Learning by doing → [check my repositories]([https://github.com/Begriper](https://github.com/Begriper?tab=stars)
 - 🔧 Cleaning & visualizing data (Power BI, Excel dashboards)
 - 🌱 Looking for a team to guide me in applying my skills in practice
 
