@@ -4,7 +4,7 @@
 
 ## 🇸🇰 O mne (Slovak version)
 
-**Aspiring Data Analyst**, ktorý sa práve vzdeláva v oblasti dátovej analytiky. Zameriavam sa na praktické zručnosti:
+**Junior Data Analyst**, ktorý sa práve vzdeláva v oblasti dátovej analytiky. Zameriavam sa na praktické zručnosti:
 
 - Excel · Power Query
 - SQL (MySQL, MS SQL)
@@ -44,7 +44,7 @@ Momentálne absolvujem [Skillmea Data Academy](https://skillmea.sk/academy/data)
 
 ## 🇬🇧 About me (English version)
 
-I’m an **Aspiring Data Analyst**, actively learning data analysis & visualization tools:
+I’m an **Junior Data Analyst**, actively learning data analysis & visualization tools:
 
 - Excel · Power Query
 - SQL (MySQL, MS SQL)
