@@ -38,7 +38,7 @@ Momentálne absolvujem [Skillmea Data Academy](https://skillmea.sk/academy/data)
 ## 🤝 Spojme sa
 
 - GitHub: [Begriper](https://github.com/Begriper)
-- LinkedIn: [František Stolár](https://www.linkedin.com/in/františek-stolár-3796ab2b5/)
+- LinkedIn: [František Stolár](https://www.linkedin.com/in/frantisek-stolar)
 
 ---
 
@@ -78,6 +78,6 @@ Currently enrolled in the [Skillmea Data Academy](https://skillmea.sk/academy/da
 ## 🤝 Let's connect
 
 - GitHub: [Begriper](https://github.com/Begriper)
-- LinkedIn: [František Stolár](https://www.linkedin.com/in/františek-stolár-3796ab2b5/)
+- LinkedIn: [František Stolár](https://www.linkedin.com/in/frantisek-stolar)
 
 ---
